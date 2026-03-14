@@ -84,7 +84,6 @@ Typical layout:
 Stereo Sync Stack/
 ├── stereo_sync_stack_v9.py
 ├── stereo_alignment.py
-├── README.md
 └── left.mp4 / right.mp4
 ```
 
